@@ -1,2 +1,2 @@
-Indonesia Independence themed Unity Game Project
+Indonesia Independence themed Unity Game Project\n
 2D Platformer created with Unity
